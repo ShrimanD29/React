@@ -1,0 +1,10 @@
+#but{
+    position: absolute;
+    left: 830px;
+    top: 500px;
+    height: 80px;
+    width: 120px;
+    font-size: 23px;
+    margin-right: 166px;
+    border-radius: 12px
+}
